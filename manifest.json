@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "RainDrop",
+  "version": "1.0",
+  "description": "Relax with rain GIFs and background music",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/icon.png",
+      "48": "assets/icon.png",
+      "128": "assets/icon.png"
+    }
+  },
+  "permissions": []
+}
